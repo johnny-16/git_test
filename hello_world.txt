@@ -1,1 +1,2 @@
-adding a new text
+adding a new text 
+using git and github like a pro 
